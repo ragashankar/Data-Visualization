@@ -9,3 +9,7 @@ Drag the country Dimension to the map.
 In measures, drag the Co2 emissions to color button. Co2 emmisions for each country is displayed. Change the color to Orange.
 Filter by Year - . drag year dim to the filter box, and select the list of years for which the Co2 emissions are to be represented.
 You can select single value list which filters by one year at a time.
+
+Story is a systematic way to represent Data.
+
+You can view the underlying data by clicking the icon near dimension box.
