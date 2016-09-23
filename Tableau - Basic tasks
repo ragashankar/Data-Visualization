@@ -1,0 +1,11 @@
+Download tableau, create acc for free, Go to the workbook that the class has given, download it and open it with Tableau public
+
+Note: There must be default one/ more values in either ros/cols inorder to be saved.
+
+Drag the latitude to row and longtiude to the column.
+
+Drag the country Dimension to the map.
+
+In measures, drag the Co2 emissions to color button. Co2 emmisions for each country is displayed. Change the color to Orange.
+Filter by Year - . drag year dim to the filter box, and select the list of years for which the Co2 emissions are to be represented.
+You can select single value list which filters by one year at a time.
