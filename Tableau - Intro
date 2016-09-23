@@ -1,0 +1,13 @@
+Tableau Types:
+
+Tableau public :  It's free..Hurray!!! That being said, most of the data that we work on is in cloud and its public. So 
+Anyone can view and download our work. Files cannot be saved locally
+
+Tableau Desktop: It's not free.. very strong security for data. Full version of Tableau. Can get data srcs from our own data warehouse/DB.
+Eg: Data srcs can be SQL server, Oracle services etc.. from any data src
+
+Tableau Server: Its the more poweful of all. But can be used only by eople who has server dedicated to tableau. very expensive..can be
+acquired by an org. very much capable of doing anything. More viewing control of data even if its on public, more security of data adn prevnt
+people from downloading any data sets.
+
+Tableau Online: Stores viz on cloud. Can only share with people who have Tableau license.
