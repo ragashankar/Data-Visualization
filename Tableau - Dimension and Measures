@@ -1,0 +1,14 @@
+Dimensions - Categorize the data
+Measures - Scale the category
+Symbols:
+# - Represents numbers
+=# - represents finite(discrete) numbers
+globe - represents country, latitude longi
+Abc - Region(text)
+calendar - represents year
+
+Right click any field - describe - see the details such as type of value, src etc.. - click Load  - see the range of the value(for conti)
+Right click any field - describe - see the details such as type of value, src etc.. - click Load - see the category values ( for dimension)
+Right click any field - describe - see the details such as type of value, src etc.. - click Load - see the years ( in year filed)
+
+Continous measure is a field that can take on number
